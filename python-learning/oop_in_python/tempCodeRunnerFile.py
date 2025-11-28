@@ -1,0 +1,6 @@
+emp1 = Employee()
+# emp1.info("rohit")
+# emp1.salary(60000)
+# st1 = Staff()
+# st1.info("Sittal")
+# st1.id()
