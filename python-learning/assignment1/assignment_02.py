@@ -25,6 +25,6 @@ while True:
           number2 = int(input("Enter a number greater than zero for division: "))
          else: 
           print("The division of %f and %f is %f" %(number1, number2, div(number1, number2))) 
-         break
+          break
     except:
         print("Invalid input")
